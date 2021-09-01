@@ -29,5 +29,9 @@ p{
 }
 
 img{
-    vertical-align: auto;
+    padding-bottom: 1em;
+}
+
+.trademark{
+    text-align: right;
 }
