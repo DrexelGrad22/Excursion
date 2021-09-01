@@ -27,3 +27,7 @@ p{
     font-size:21px;
     font-family: verdana;
 }
+
+img{
+    vertical-align: auto;
+}
